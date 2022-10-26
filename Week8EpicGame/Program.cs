@@ -1,4 +1,4 @@
-﻿string folderPath = @"C:\Users\Siim\Documents\GertuPiho\Data";
+﻿string folderPath = @"C:\Users\Documents\Data";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 
